@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About Me 
-I am a graduate research assistant at Virginia Commonwealth Univeristy specializing in microwave engineering.
+I am a graduate research assistant at Virginia Commonwealth Univeristy specializing in microwave engineering. I enjoy working with almost anything that has to do with electromagnetics, especially reconfigurable intelligent surfaces and frequency selective surfaces. 
 
 # 📡 I'm currently working on
 - Reconfigurable intelligent surfaces using transparent conductive oxides
